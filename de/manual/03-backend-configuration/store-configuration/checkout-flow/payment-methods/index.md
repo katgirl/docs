@@ -18,6 +18,7 @@ Im Auswahlmenü **Status für neue Bestellungen** kann der Status ausgewählt we
   Weiterhin bietet Isotope bei jeder Zahlungsart die Optionen, **Minimaler** und **Maximaler Betrag**. Angewendet bedeutet dass, wenn ein minimaler Betrag eingetragen ist, kann der potenzielle Käufer diese Zahlungsmöglichkeit erst dann nutzen, wenn er Produkte von mindestens diesen Wert im Warenkorb hat.
 
 
+
 Die jeweilige Zahlungsart kann in den Zugänglichkeit für bestimmte Länder eingeschränkt werden. Wähle dazu die zugänglichen Länder unter **Aktive Länder** aus. 
 
 
@@ -34,3 +35,6 @@ Unter **Experteneinstellungen** - schon von den Contao Core-Einstellungen bekann
 
 
 Damit die Zahlungsmöglichkeit dann im **Kasse-Modul** zur Verfügung steht muss die Checkbox **Modul aktivieren** aktiviert werden.
+
+Es gibt noch mehr Zahlungsmöglichkeiten, welche über das Extension Repository installiert werden können.
+So zum Beispiel Sofortüberweisung, https://contao.org/de/extension-list/view/isotope_pymt_sofortueberweisung.de.html
