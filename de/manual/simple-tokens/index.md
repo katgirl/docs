@@ -23,5 +23,17 @@ Sehr geehrte Damen und Herren,
 {endif}
 </pre>
 
+Es gibt zwei Arten von Simple Tokens in Isotope eCommerce:
+* PLAIN-Text Tokens
+* HTML-Text Tokens
+
+## HTML-Text Tokens
+Diese sind die Standard-Tokens die verwendet werden. Die jeweis möglichen Token erhält man als Auswahl, wenn man ## eingibt
+[image:simple_tokens_select.png]
+
+
+## PLAIN-Text Tokens
+Diese sollten verwendet werden z.B. wenn man PLAIN-E-Mails versenden möchte, da hier die Zeilumbrüche <br> durch \n ersetzt sind und sonstige HTML-Zeichen entfernt.
+Diese Tokens kann man wie die HTML-Text Token aus dem Auswahlmenü wählen, man erkennt sie an _text am Ende.
 
 [1]: https://contao.org/de/manual/3.2/managing-content.html#newsletter-personalisieren
